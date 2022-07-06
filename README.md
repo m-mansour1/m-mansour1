@@ -18,7 +18,9 @@ I am a Developer from Lebanon.
 
 - :zap: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://lb.linkedin.com/in/mira-mansour-23a735219)
+- :mailbox:How to reach me: <a href="https://lb.linkedin.com/in/mira-mansour-23a735219">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 
 <!--<img src="https://komarev.com/ghpvc/?username=m-mansour1&style=flat-square&color=blue" alt=""/>-->
