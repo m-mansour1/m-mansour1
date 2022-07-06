@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+---
+
+### :woman_technologist: About Me :
 
 <!--<img src="https://komarev.com/ghpvc/?username=m-mansour1&style=flat-square&color=blue" alt=""/>-->
 
