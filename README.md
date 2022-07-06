@@ -10,11 +10,11 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lebanon.
+I am a Developer from Lebanon.
 
-- :telescope: I’m working as a Software Developer and contributing to the backend for building web applications.
+- :telescope: I’m working as a Software Developer and contributing to the backend for building web applications in ASP.NET and C#.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Cybersecurity.
 
 - :zap: In my free time, I read tech articles.
 
