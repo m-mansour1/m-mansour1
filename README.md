@@ -9,7 +9,7 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Software Developer from Lebanon.
 
-- :telescope: I’m working as a Software Developer and contributing to the backend for building web applications in ASP.NET and C#.
+- :telescope: I’m working as a Software Developer and contributing to the backend for building web applications in ASP.NET Core and C#.
 
 - :seedling: Exploring Cybersecurity.
 
