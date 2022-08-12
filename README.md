@@ -6,7 +6,7 @@
 </div>
 
 
-### :woman_technologist: About Me :
+About Me :
 I am a Full Stack Software Developer from Lebanon.
 
 - :telescope: I’m working as a Software Developer and contributing to the backend for building web applications in ASP.NET Core and C#.
