@@ -13,7 +13,7 @@ I am a Full Stack Software Developer from Lebanon.
 
 - :seedling: Exploring Cybersecurity.
 
-- :zap: In my free time, I read tech articles.
+- :zap: In my free time, I read about new technologies.
 
 - :mailbox:How to reach me: <a href="https://lb.linkedin.com/in/mira-mansour-23a735219">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
