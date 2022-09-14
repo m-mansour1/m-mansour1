@@ -9,7 +9,7 @@
 About Me :
 I am a Full Stack Software Developer from Lebanon.
 
-- :telescope: I’m working as a Software Developer and contributing to the backend for building web applications in ASP.NET Core and C#.
+- :telescope: I’m working as a Software Developer and contributing to the backend for building web applications in ASP.NET Core and C#. In addition, I'm freelance Full Stack Web Developer building apps in Bootstrap, Jquery, PHP & MySQL.
 
 - :seedling: Exploring Cybersecurity.
 
